@@ -2,7 +2,7 @@
 
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoaleks/)
 
-![Brunoalek GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoalek&layout=compact)
+![Brunoalek GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOALEK&layout=compact)
 
 ### Languages ​​and Technologies
 
