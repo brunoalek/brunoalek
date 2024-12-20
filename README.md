@@ -122,6 +122,3 @@ Languages: English, Portuguese (native), Spanish.
   />
 
 </p>
-
-<br>
-<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/brunoalek/count.svg" /></p>
