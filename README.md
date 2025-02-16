@@ -110,6 +110,6 @@ Languages: English, Portuguese (native), Spanish.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOALEK&hide_progress=true&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOALEK&layout=compact" 
   />
 </p>
