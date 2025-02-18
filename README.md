@@ -3,7 +3,7 @@
 **`SOFTWARE DEVELOPER FULLSTACK`**
 
 My name is Bruno Aleksander, I'm 26 years old and I'm from Olinda. I have a degree in Computer Science (Bachelor) and a Postgraduate in Software Engineering. I am always looking for new technologies and methodologies to improve my work and deliver high-quality results.
-Languages: English, Portuguese (native), Spanish.
+Languages: English, Portuguese (native), Spanish..
 
 <p align="left">
     <a href="https://www.linkedin.com/in/brunoaleks/">
